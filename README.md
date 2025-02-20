@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**OsamaAltuhaif/OsamaAltuhaif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi 👋, I'm [Eng-Osama Altuhaif]
+### A software engineer from [Yemen]
 
-Here are some ideas to get you started:
+- 🌱 I’m a software Developer ready for develop Mobile Applications and FullStack Website 
+- 💬 Ask me about [Mobile Development and Web Development]
+- 📫 How to reach me: [TuhaifSoft@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/osama-altuhaif)
+
+### Languages and Tools:
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter)
+![Django](https://img.shields.io/badge/-Django-green?style=for-the-badge&logo=django)
+![C#](https://img.shields.io/badge/-C%23-purple?style=for-the-badge&logo=c-sharp)
+![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)
+
+### GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=OsamaAltuhaif&show_icons=true&theme=radical)
+
+### Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OsamaAltuhaif&layout=compact&theme=radical)
