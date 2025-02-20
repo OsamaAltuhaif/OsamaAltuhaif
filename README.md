@@ -7,7 +7,7 @@
 - 📫 How to reach me: [TuhaifSoft@gmail.com]
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/osama-altuhaif)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osama-altuhaif)
 
 ### Languages and Tools:
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter)
